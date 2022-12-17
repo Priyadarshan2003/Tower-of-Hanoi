@@ -1,5 +1,10 @@
 # tower of hanoi
 # coded by NSP
+
+""" This program prints out the step by step solution  """
+
+
+
 a=[]
 b=[]
 c=[]
